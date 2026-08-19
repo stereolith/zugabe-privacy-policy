@@ -1,66 +1,80 @@
-# Zugabe — Privacy Policy
+# Zugabe — Datenschutzerklärung
 
-Last updated: 19 August 2026
+Stand: 19. August 2026
 
-Zugabe is a concert journal for iOS. This policy explains what the app
-does with your data. In short: your journal stays on your device, and
-Zugabe has no servers, no accounts, and no analytics.
+Zugabe ist ein Konzert-Tagebuch für iOS. Diese Erklärung beschreibt, was
+die App mit deinen Daten macht. Kurz gefasst: Dein Tagebuch bleibt auf
+deinem Gerät. Zugabe hat keine Server, keine Benutzerkonten und keine
+Analysewerkzeuge.
 
-## What stays on your device
+## Verantwortlicher
 
-Everything you see in the app is stored locally on your device:
-the concerts in your journal, their dates, venues, setlists, and your
-notes. This data is also shared with the Zugabe home screen widget
-through a private app group on the same device.
+Lukas Mönch c/o Online-Impressum #7245
+Europaring 90
+53757 Sankt Augustin
+Deutschland
+E-Mail: mail@koelnkino.koeln
 
-Zugabe does not copy your photos. It reads your photo library through
-Apple's Photos framework and stores only identifiers that point back to
-the originals, which stay in Photos under your control.
+## Was auf deinem Gerät bleibt
 
-Deleting the app deletes this data.
+Alles, was du in der App siehst, wird lokal auf deinem Gerät
+gespeichert: die Konzerte in deinem Tagebuch, ihre Daten, Venues,
+Setlists und deine Notizen. Diese Daten werden über eine private
+App-Gruppe auf demselben Gerät auch mit dem Zugabe-Widget geteilt.
 
-## What the app reads
+Zugabe kopiert deine Fotos nicht. Die App liest deine Fotomediathek
+über Apples Photos-Framework und speichert lediglich Verweise auf die
+Originale, die in der Fotos-App unter deiner Kontrolle bleiben.
 
-With your permission, Zugabe reads your photo library, including each
-photo's date and, where present, its location. It uses this to group
-photos into concerts and to work out where a concert took place. This
-analysis happens on your device.
+Wenn du die App löschst, werden diese Daten gelöscht.
 
-Zugabe also asks for location permission to place concerts on the map
-and to find the venue nearest a photo.
+## Was die App liest
 
-## What leaves your device
+Mit deiner Erlaubnis liest Zugabe deine Fotomediathek, einschließlich
+des Aufnahmedatums und — sofern vorhanden — des Aufnahmeorts jedes
+Fotos. Daraus gruppiert die App Fotos zu Konzerten und ermittelt, wo ein
+Konzert stattgefunden hat. Diese Auswertung findet auf deinem Gerät
+statt.
 
-To identify concerts and fill in details, Zugabe sends small queries to
-third-party services. These queries contain things like an artist name,
-a venue name, a city, a date, or a coordinate. They never contain your
-photos, and they are not tied to an account or identifier.
+Zugabe fragt außerdem die Standortberechtigung ab, um Konzerte auf der
+Karte zu verorten und die Venue in der Nähe eines Fotos zu finden.
 
-- setlist.fm — to find the concert and its setlist
-- MusicBrainz and Wikidata — to resolve artist names
-- Google (via the Serper API) — to help identify festival lineups
-- Apple MusicKit — to find and play songs, if you use playback
-- Apple WeatherKit — historical weather for a concert's date and place
-- Apple Maps — reverse geocoding and nearby venue lookup
+## Was dein Gerät verlässt
 
-Each service handles that request under its own privacy policy.
+Um Konzerte zu identifizieren und Details zu ergänzen, sendet Zugabe
+kleine Anfragen an Dienste Dritter. Diese Anfragen enthalten Angaben wie
+einen Künstlernamen, einen Venue-Namen, eine Stadt, ein Datum oder eine
+Koordinate. Sie enthalten niemals deine Fotos und sind mit keinem Konto
+und keiner Kennung verknüpft.
 
-## What Zugabe does not do
+- setlist.fm — um das Konzert und seine Setlist zu finden
+- MusicBrainz und Wikidata — um Künstlernamen aufzulösen
+- Google (über die Serper-API) — zur Ermittlung von Festival-Lineups
+- Apple MusicKit — um Songs zu finden und abzuspielen, sofern du die
+  Wiedergabe nutzt
+- Apple WeatherKit — historische Wetterdaten zu Datum und Ort eines
+  Konzerts
+- Apple Karten — Reverse-Geocoding und Suche nach Venues in der Nähe
 
-Zugabe has no user accounts and no backend. It does not collect
-analytics or usage statistics, does not use tracking or advertising,
-does not sell or share personal data, and contains no third-party
-tracking SDKs.
+Jeder dieser Dienste verarbeitet die Anfrage nach seiner eigenen
+Datenschutzerklärung.
 
-## Children
+## Was Zugabe nicht tut
 
-Zugabe is not directed at children under 13 and does not knowingly
-collect data from them.
+Zugabe hat keine Benutzerkonten und kein eigenes Backend. Die App erhebt
+keine Analyse- oder Nutzungsstatistiken, verwendet kein Tracking und
+keine Werbung, verkauft oder teilt keine personenbezogenen Daten und
+enthält keine Tracking-SDKs von Drittanbietern.
 
-## Changes
+## Kinder
 
-If this policy changes, the date at the top will be updated.
+Zugabe richtet sich nicht an Kinder unter 13 Jahren und erhebt
+wissentlich keine Daten von ihnen.
 
-## Contact
+## Änderungen
 
-Questions about this policy: YOUR-EMAIL@EXAMPLE.COM
+Bei Änderungen dieser Erklärung wird das Datum oben aktualisiert.
+
+## Kontakt
+
+Fragen zu dieser Datenschutzerklärung: DEINE-E-MAIL@BEISPIEL.DE
